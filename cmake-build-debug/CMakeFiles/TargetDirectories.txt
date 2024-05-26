@@ -1,0 +1,3 @@
+D:/Labaratornaia-18/cmake-build-debug/CMakeFiles/Labaratornaia_18.dir
+D:/Labaratornaia-18/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Labaratornaia-18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
